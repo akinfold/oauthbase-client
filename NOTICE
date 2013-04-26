@@ -1,0 +1,6 @@
+OAuthBase Client
+Copyright 2013 Roman Akinfeev (Roman Akinfold)
+
+OAuth support provided by OAuthBase.cs developed by Eran Sandler.
+Original software is available from
+    https://code.google.com/p/oauth/source/browse/code/csharp/OAuthBase.cs
